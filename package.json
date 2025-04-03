@@ -1,6 +1,6 @@
 {
-  "name": "testpackage",
-  "version": "0.1.1",
+  "name": "custom-detail-link",
+  "version": "0.1.0",
   "private": false,
   "engines": {
     "node": ">=20"
