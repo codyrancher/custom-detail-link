@@ -15,12 +15,12 @@ export default function (plugin: IPlugin): void {
     {
       name: 'some-prop-col',
       label: 'Custom Detail Link',
-      getValue: (row: any) => {
+      getValue: () => {
         return 'Custom Detail Link'
       },
       formatter: 'LinkDetail',
       formatterOpts: {
-        getCustomDetailLink: (row) => {
+        getCustomDetailLink: () => {
           console.log('this is called');
 
           return {
