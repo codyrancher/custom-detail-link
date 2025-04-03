@@ -1,0 +1,19 @@
+{
+  "name": "custom-detail-link",
+  "description": "custom-detail-link plugin",
+  "version": "0.1.2",
+  "private": false,
+  "rancher": true,
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0"
+  },
+  "files": [
+    "**/*"
+  ],
+  "main": "custom-detail-link-0.1.2.umd.min.js"
+}
