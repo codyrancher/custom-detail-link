@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-03T17:32:07.241936389Z"
+    created: "2025-04-03T17:42:25.098710613Z"
     description: custom-detail-link plugin
-    digest: 19d04ed4bcb3988f50da0833f6d9d17f9dc3fb4213767a66a358d2cea0a16db9
+    digest: aa643682cc6b1ffd4dca4bedeb04b4730d8cf00056adc1770d49d42d021eb1fb
     name: custom-detail-link
     type: application
     urls:
     - assets/custom-detail-link/custom-detail-link-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-03T17:32:07.241421704Z"
+generated: "2025-04-03T17:42:25.097561961Z"
